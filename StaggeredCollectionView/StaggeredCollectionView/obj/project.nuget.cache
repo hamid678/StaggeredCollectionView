@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIS8rcAEQE1xwxJmSlfuceW1Bp+2l19a2SHqfw3/sifLBOn8txX998vGXUl98SFagmml2Mir5mL0U5xe+V4OGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hamid\\source\\repos\\StaggeredCollectionView\\StaggeredCollectionView\\StaggeredCollectionView\\StaggeredCollectionView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "F:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "F:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
